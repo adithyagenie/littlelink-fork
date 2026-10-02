@@ -1,0 +1,17 @@
+/*
+ * To tweak spacing
+ */
+
+.container p.tagline {
+	margin-top: var(--spacing-l);
+	margin-bottom: var(--spacing-s);
+}
+
+.container p.bio {
+	margin-bottom: var(--spacing-xl);
+}
+
+.container p.other-links {
+	margin-top: var(--spacing-xl);
+	margin-bottom: var(--spacing-m);
+}
